@@ -2,17 +2,17 @@
 
 **Children's Education and Parental Longevity. Causal Evidence From Two English School-Leaving Age Reforms**
 
-This package reproduces every table, figure and in-text statistic computed from data in the paper and its supplement. Table 1 (literature summary) and Table A1 (ethical approval) are compiled by hand and have no code.
+This package reproduces every table, figure and in-text statistic computed from data in the paper and its supplement. Table 1 (literature summary) and Table A1 (ethical approval) are compiled by hand.
 
 ## Requirements
 
 - R 4.5.3
 - R packages: tidyverse 2.0.0, haven 2.5.5, survival 3.8.6, survminer 0.5.2, patchwork 1.3.2, car 3.1.5, rddensity 3.0, rdrobust 4.0.0, mice 3.19.0
-- About one hour on a standard desktop computer (the bootstrap steps 04, 09 and 10 dominate)
+- About one hour on a standard desktop computer
 
 ## Data
 
-None of the data are redistributed. Place the files as follows (paths relative to the package root).
+Place the files as follows (paths relative to the package root).
 
 | Source | Used for | Location |
 |---|---|---|
